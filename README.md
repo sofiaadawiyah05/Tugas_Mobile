@@ -1,6 +1,6 @@
-NAMA : YULIANA DEWI
-NIM : E41200315 
-TIF-A
+NAMA : Sofia Adawiyah
+NIM : E41202327 
+BWS B
 --------------------
 Hasil output :
 1. ListView
